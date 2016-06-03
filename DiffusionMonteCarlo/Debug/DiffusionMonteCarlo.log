@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\christian\documents\visual studio 2013\projects\diffusionmontecarlo\diffusionmontecarlo\main.cpp(17): warning C4244: 'argument' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+c:\users\christian\documents\visual studio 2013\projects\diffusionmontecarlo\diffusionmontecarlo\main.cpp(26): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+c:\users\christian\documents\visual studio 2013\projects\diffusionmontecarlo\diffusionmontecarlo\main.cpp(152): warning C4018: '<' : signed/unsigned mismatch
+c:\users\christian\documents\visual studio 2013\projects\diffusionmontecarlo\diffusionmontecarlo\main.cpp(241): warning C4018: '<' : signed/unsigned mismatch
+  DiffusionMonteCarlo.vcxproj -> C:\Users\Christian\Documents\Visual Studio 2013\Projects\DiffusionMonteCarlo\Debug\DiffusionMonteCarlo.exe
